@@ -1,7 +1,7 @@
-# reviewGrowthPro
-ReviewGrothPro
+# Unified synergy
+Unified Synergy
 Overview
-ReviewGrothPro is a web application developed using HTML, CSS, and JavaScript. This project offers a comprehensive suite of features including:
+Unified Synergy is a web application developed using HTML, CSS, and JavaScript. This project offers a comprehensive suite of features including:
 
 Review Campaign: Initiate and manage targeted review campaigns to enhance your online presence.
 
